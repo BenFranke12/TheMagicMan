@@ -20,4 +20,15 @@ h2 {
     width: 70%;
     border: 3px solid White;
     padding: 10px;
-  }
+}
+.fill {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden
+}
+.fill img {
+    flex-shrink: 0;
+    min-width: 100%;
+    min-height: 100%
+}

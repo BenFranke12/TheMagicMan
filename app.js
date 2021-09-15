@@ -1,4 +1,4 @@
-pressme = document.getElementsByClassName("TheMagicMan")
+pressme = document.getElementsByClassName(".TheMagicMan")
 
 pressme.addEventListener("click",doit)
 
